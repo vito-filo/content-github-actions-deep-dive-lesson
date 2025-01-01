@@ -1,4 +1,4 @@
-name: Deploy Lambda Function
+name: Deploy pages test
 on: 
   push:
   workflow_dispatch:
