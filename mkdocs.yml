@@ -1,0 +1,10 @@
+site_name: User guide
+site_description: 'A User guide for the mkdocs-template'
+site_author: 'Chat GPT'
+docs_dir: docs/
+repo_name: 'vito-filo/content-github-actions-deep-dive-lesson'
+repo_url: 'https://github.com/vito-filo/content-github-actions-deep-dive-lesson'
+nav:
+    - Home: userguide.md
+theme:
+  name: 'material'
